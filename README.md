@@ -1,16 +1,18 @@
 # strangermgnt
+A flutter App to Manage and Generate a Visitor card
+![image](https://github.com/user-attachments/assets/b8d1bb48-964f-4621-914b-201447e0c381)
 
-A new Flutter project.
+Fill the Details
+![image](https://github.com/user-attachments/assets/8f8b417f-0a7f-4ea5-ac11-df0dd5535289)
 
-## Getting Started
+Faculty Page : The respective faculty with the ID will receive the Post about the visitor
+![image](https://github.com/user-attachments/assets/98b9cf78-f7c5-4038-a938-f1a37c2e2b78)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Visitor History page : can view your past meetings  both visited and cancelled with timestamp 
+![image](https://github.com/user-attachments/assets/46a1af22-c116-4c04-81de-76743ec70280)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Login Page : first time its displayed , then Auto login by looking existing details in the shared Preferences 
+            -With the autofill details button
+![image](https://github.com/user-attachments/assets/a5da598e-809b-4159-b4cf-ddb1fe43f072)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
